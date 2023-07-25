@@ -1,0 +1,10 @@
+* cl-paypal
+
+cl-paypal is a paypal express checkout Library in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/standin000/cl-paypal.git   |
+| commit  | 7f96523  |
+| systems | cl-paypal |
+|---------+-------------------------------------------|
+
